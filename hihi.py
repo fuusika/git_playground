@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print("I prefer Tea")
-=======
-print("I prefer Coffee")
->>>>>>> conflict_branch
+# I am editing this on my laptop to push to GitHub
